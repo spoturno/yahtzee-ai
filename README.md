@@ -1,5 +1,4 @@
-# Yahtzee AI - Prolog Implementation
-
+# Yahtzee AI
 Este proyecto consiste en la implementación de una inteligencia artificial para jugar al Yahtzee, un juego de dados clásico. El proyecto fue desarrollado como parte de un laboratorio de Programación Lógica en Prolog.
 
 ## Descripción
